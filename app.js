@@ -2,7 +2,7 @@ let titulo = document.querySelector('h1');
 titulo.innerHTML = 'Hora do Desafio';
 
 function console(){
-     console.log('O botão foi clicado!')
+     console.log('O!')
 }
 
 function alerta(){
